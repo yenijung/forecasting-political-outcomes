@@ -1,0 +1,9 @@
+openpyxl==3.1.5
+jinja2
+statsmodels
+bs4==0.0.2
+xgboost
+lightgbm
+catboost
+openpyxl==3.1.5
+xlrd
